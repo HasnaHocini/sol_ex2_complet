@@ -1,2 +1,2 @@
-# Voici mon premier programme python
+# Voici mon premier programme python 2
 print("Bonjour !")
